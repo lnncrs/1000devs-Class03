@@ -2,6 +2,8 @@
 
 **Iniciativa 1000devs Aula 03 - Agentes**
 
+> Este repositório é parte da iniciativa 1000devs, uma colaboração anual da Johnson & Johnson e do Hospital Israelita Albert Einstein para formar 1000 desenvolvedores no Brasil. Tive a oportunidade de apresentar os fundamentos, conceitos, campo e as ferramentas da Inteligência Artificial para os alunos.
+
 Este repositório contém exemplos práticos de uso simples de **Agentes** usando o **Agent Framework SDK** da **Microsoft**.
 
 Referência: [Agent Framework SDK - Microsoft](https://learn.microsoft.com/pt-br/agent-framework/overview/?pivots=programming-language-python)
