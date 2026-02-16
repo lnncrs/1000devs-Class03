@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+jupyter
+seaborn
+requests
+faker
+jupyterlab
+notebook
+ipywidgets
+pyarrow
+
+--pre
+agent-framework
