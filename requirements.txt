@@ -10,6 +10,5 @@ jupyterlab
 notebook
 ipywidgets
 pyarrow
-
---pre
+python-dotenv
 agent-framework
